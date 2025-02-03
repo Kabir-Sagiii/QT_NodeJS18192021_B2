@@ -1,0 +1,29 @@
+div {
+  width: 500px;
+  margin: 50px auto;
+  text-align: center;
+}
+h2 {
+  text-align: center;
+  margin-top: 30px;
+  color: blue;
+  font-size: 37px;
+}
+div :first-child {
+  border: 3px solid green;
+  padding: 7px 30px;
+  background: none;
+  color: green;
+
+  font-size: 17px;
+  font-weight: bold;
+}
+
+div :last-child {
+  border: 3px solid red;
+  padding: 7px 30px;
+  background: none;
+  color: red;
+  font-size: 17px;
+  font-weight: bold;
+}

@@ -1,0 +1,16 @@
+{
+    "data": [
+        {
+            "name": "s1",
+            "email": "s1@gmail.com",
+            "phone": "9999999",
+            "gender": "male"
+        },
+        {
+            "name": "S2",
+            "email": "s2@gmail.com",
+            "phone": "9898989",
+            "gender": "female"
+        }
+    ]
+}
